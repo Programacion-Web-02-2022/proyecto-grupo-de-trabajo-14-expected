@@ -5,8 +5,7 @@ USUARIOS DE PRUEBA
 
 
 
----------------------------------------------------------------
-GUIA DE INSTALACION
+
 
 ---------------------------------------------------------------
 MANUAL DE USUARIO <br>
@@ -56,4 +55,11 @@ dando click en su boton correspondiente.
 
 
 ---------------------------------------------------------------
-ENLACES DE INTERES
+ENLACES DE INTERES <br>
+Mas de métodos de estudio
+1. [Método de Cornell] (https://www.becas-santander.com/es/blog/metodo-cornell.html)
+2. [Reglas mnemotécnicas] (https://www.becas-santander.com/es/blog/reglas-mnemotecnicas-ejemplos.html)
+3. [Subrayado](https://estudianteforever.com/tecnica-de-estudio-el-subrayado/)
+4. [Mapa mental] (https://www.educalive.com/blog/mapas-mentales-que-son-y-como-se-hacen)
+5. [Fichas de estudio](https://www.educalive.com/blog/como-estudiar-tarjetas-estudio-flashcards-ejemplos)
+6. [El Resumen](https://www.educalive.com/blog/como-hacer-resumen)
