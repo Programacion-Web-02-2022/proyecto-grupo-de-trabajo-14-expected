@@ -12,8 +12,8 @@ const Hero = () => {
       <div className=" flex place-items-center justify-center">
         <div>
         <div className="text-center text-white mt-60">
-          <h1 className="text-9xl font-['Roboto']">21:34</h1>
-          <p className=" font-['Merriweather'] italic">Buenas noches, Invitado</p>
+          <h1 className="text-9xl font-['Roboto']">14:06</h1>
+          <p className=" font-['Merriweather'] italic">Buenas Tardes, Invitado</p>
         <br></br>
         <br></br>
         <br></br>
