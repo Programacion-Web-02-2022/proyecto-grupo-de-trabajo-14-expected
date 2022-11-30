@@ -1,10 +1,10 @@
-import classes from "./Feed.module4.scss";
+import classes from "./Feed4.module.scss";
 
 const Feed = () => {
   return (
     <div>
       <body>
-        
+        <div className={clasess["titulo"]}>
         <h1 >
             Subrayar
             </h1>
@@ -12,6 +12,8 @@ const Feed = () => {
             <p>
             Método de estudio
             </p>
+        </div>
+     
         
      
         <section className={classes["section-1"]}>
@@ -33,7 +35,7 @@ const Feed = () => {
 
             <div className={classes["left-container"]}>
             <figure>
-              <img src="src/assets/image.png" width="500px" />
+              <img src="src/assets/subrayar.png" width="500px" />
             </figure>
           </div>
           </section>
