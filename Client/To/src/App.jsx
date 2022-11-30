@@ -18,6 +18,7 @@ function App() {
       <main>
         <Feed />
       </main>
+      {/* Footer */}
       <Footer />
     </div>
   );
