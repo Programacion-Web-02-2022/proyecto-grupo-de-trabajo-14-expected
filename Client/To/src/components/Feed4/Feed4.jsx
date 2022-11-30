@@ -1,10 +1,10 @@
-import classes from "./Feed4.module.scss";
+import classes from "./Feed.module4.scss";
 
 const Feed = () => {
   return (
     <div>
       <body>
-        <div className={clasess["titulo"]}>
+        <div className={classes["titulo"]}>
         <h1 >
             Subrayar
             </h1>

@@ -44,7 +44,7 @@ const Feed = () => {
               <p>
               Resume y organiza nuestras ideas.
               </p>
-              <button ><a>Conocer más</a></button>
+              <button ><a href="../../../../index6.html">Conocer más</a></button>
             </div>
 
             <div className={classes["grid-item"]}>
@@ -53,7 +53,7 @@ const Feed = () => {
               <p>
               Para asimilar datos concretos
               </p>
-              <button><a>Conocer más</a></button>
+              <button><a href="../../../../index9.html">Conocer más</a></button>
             </div>
 
             <div className={classes["grid-item"]}>
@@ -71,7 +71,7 @@ const Feed = () => {
               <p>
               Memorizar listas y conjuntos.
               </p>
-              <button><a>Conocer más</a></button>
+              <button><a href="../../../../index5.html">Conocer más</a></button>
             </div>
 
             <div className={classes["grid-item"]}>
@@ -80,7 +80,7 @@ const Feed = () => {
               <p>
               Un nuevo procedimiento eficaz, rápido y sencillo para tomar apuntes.
               </p>
-              <button><a>Conocer más</a></button>
+              <button><a href="../../../../index7.html">Conocer más</a></button>
             </div> 
 
             <div className={classes["grid-item"]}>
@@ -89,7 +89,7 @@ const Feed = () => {
               <p>
               Incluye la información más importante para estudiar.
               </p>
-              <button><a>Conocer más</a></button>
+              <button><a href="../../../../index8.html">Conocer más</a></button>
             </div>
 
           </div>
