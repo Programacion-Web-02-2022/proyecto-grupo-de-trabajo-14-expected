@@ -7,14 +7,14 @@ const Feed = () => {
         <section className={classes["section-1"]}>
           <div className={classes["right-container"]}>
             <h1>
-              Un Espacio <br />Para Ti
+              Un Espacio <br /> Para Ti
             </h1>
             <p>
-            Empieza ahora para que te motives. 
-            Convierta su potencial en progreso con una página 
-            maravillosamente simple.
+            Empieza ahora para que te motives. Convierta su potencial en progreso con una página maravillosamente simple.
+
+
             </p>
-            <button>Try To Ü</button>
+            <button><a href="../../../../index2.html" className={classes["link"]}>Try To Ü As Guest</a></button>
           </div>
 
           <div className={classes["left-container"]}>
@@ -39,42 +39,36 @@ const Feed = () => {
         <section>
           <div className={classes["grid-container"]}>
             <div className={classes["grid-item"]}>
-              <i class="fi fi-rr-edit"></i>
               <h1>Conoce tu estilo de aprendizaje</h1>
               <p>
               Encuentra una técnica de estudio que facilite el aprendizaje.
               </p>
             </div>
             <div className={classes["grid-item"]}>
-              <i class="fi fi-rr-pencil"></i>
               <h1>Métodos de estudio</h1>
               <p>
               Dependiendo del método de estudio se le proporcionarán recomendaciones.
               </p>
             </div>
             <div className={classes["grid-item"]}>
-            <i class="fi fi-rr-calendar"></i>
               <h1>Agenda semanal</h1>
               <p>
               Mostrará las metas de la semana que tienes por cumplir.  
               </p>
             </div>
             <div className={classes["grid-item"]}>
-            <i class="fi fi-rr-handshake"></i>
               <h1>Inspiración diaria</h1>
               <p>
               Sección especial donde mostrará diferentes contenidos para motivar.
               </p>
             </div>
             <div className={classes["grid-item"]}>
-            <i class="fi fi-rr-following"></i>
               <h1>Registro de emociones</h1>
               <p>
               Se le darán emociones predeterminadas al usuario para que seleccione 1 o 2 por cada día.
               </p>
             </div> 
             <div className={classes["grid-item"]}>
-            <i class="fi fi-rr-hourglass-end"></i>
               <h1>Pomodoro</h1>
               <p>
               Se le proporcionará un cronómetro para que lleve la duración de cada intervalo de tiempo dedicado al estudio.

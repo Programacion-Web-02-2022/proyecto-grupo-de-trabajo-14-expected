@@ -4,23 +4,24 @@
 
 // Siempre que es archivo local usar el ./
 import classes from './App.module.scss';
-import Header from './components/Header/Header';
-import Feed from './components/Feed/Feed';
+import Header2 from './components/Header2/Header2';
+import Feed3 from './components/Feed3/Feed3';
 import Footer from './components/Footer/Footer';
 
-function App() {
+function App3() {
   // const [count, setCount] = useState(0)
 
   return (
     <div className={classes ["App"]}>
       {/* Header*/}
-      <Header />
+      <Header2 />
       <main>
-        <Feed />
+        <Feed3 />
       </main>
+      {/* Footer */}
       <Footer />
     </div>
   );
 }
 
-export default App
+export default App3
