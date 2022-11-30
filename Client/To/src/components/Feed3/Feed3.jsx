@@ -62,7 +62,7 @@ const Feed = () => {
               <p>
               Destaca las partes más significativas del texto.  
               </p>
-              <button><a>Conocer más</a></button>
+              <button><a href="../../../../index4.html">Conocer más</a></button>
             </div>
 
             <div className={classes["grid-item"]}>

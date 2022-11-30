@@ -1,5 +1,6 @@
 import Header2 from "./components/Header2/Header2";
 import Hero2 from "./components/Feed2/Hero2";
+import Footer from "./components/Footer/Footer";
 
 function App2() {
   return (
@@ -10,7 +11,7 @@ function App2() {
       <Works />
       <Reviews />
       <Services /> */}
-     {/*  <Footer /> */}
+      <Footer />
     </div>
   );
 }
